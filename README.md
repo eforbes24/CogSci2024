@@ -1,2 +1,5 @@
 # CogSci2024
-Code and Documentation related to the paper Minimal Modeling for Cognitive Ecologists: Measuring Decision-Making Trade-Offs in Ecological Tasks
+Code and Documentation related to Forbes & Beer (2024) - Minimal Modeling for Cognitive Ecologists: Measuring Decision-Making Trade-Offs in Ecological Tasks
+
+Abstract from the paper:
+The complexity of studying behavior and cognitive processes in realistic ecological tasks is a major challenge for cogni- tive scientists, behavioral ecologists, community ecologists, and the cognitive ecology community that subsumes all these fields. Here we describe a modeling approach that can be used to study the decision-making trade-offs that emerge from the coupling of nervous systems, bodies, and ecological context. To demonstrate the method, we describe an agent that must balance its need to consume resources with its need to avoid predation. We then show how to analyze the resulting behavior through the lens of behavioral trade-off schemas synthesized with neural traces measured during real-time behavior. The employment of model agents will be an important contributor to ecological theory of cognitive processes, and here we hope to convince the reader of that methodological potential.
